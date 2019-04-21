@@ -1,0 +1,6 @@
+owner=281404038019416067
+prefix=!
+game=Myths - !play
+stayinchannel=true
+songinstatus=false
+token=NTY5MzM3MzE3NTc2MTQ2OTUz.XLvK2Q.saqQDP7ln5H3D3w8fVIgw03eLlo
